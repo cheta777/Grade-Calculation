@@ -9,8 +9,10 @@ the student to focus more on what, etc
 Team : Binary Beasts (BB)
 Team members :
 	1) Chetan kumar reddy Nellore(MNC)
+	
 	2) Palivela Rahul(ME)
-	3) Siddhi Venkata Sai Karthik Veeranki(MNC)
+	
+	3) Karthik Veeranki(MNC)
 
 
 Project files :
