@@ -1,0 +1,56 @@
+
+  ------------------------------------------------------
+ |======================================================  
+ |******INDIAN INSTITUTE OF TECHNOLOGY GOA************  |
+ |****************STUDENT REPORT CARD ****************  |    
+ |======================================================|
+  ------------------------------------------------------
+ 
+ 
+
+Name of the student : Karthik
+Roll number of the student : 2003325
+Semester: Spring
+Faculty Advisor: Sabhiha
+
+
+MTH 1021 : C+
+
+MTH 1022 : B
+
+PH 102 : B+
+
+PH 104 : A
+
+CH 101 : A+
+
+CH 102 : C+
+
+CH 104 : B
+
+CS 101 : B+
+
+ME 102 : A
+
+CS 102 : A+
+
+Courses you are strong in : 
+PH 102
+PH 104
+CH 101
+CS 101
+ME 102
+CS 102
+
+Courses you are good in :
+MTH 1021
+MTH 1022
+CH 102
+CH 104
+
+Courses you must focus on and improve at :
+-------
+
+Your CPI is : 8.08
+
+Your rank is 53 among 72 students
